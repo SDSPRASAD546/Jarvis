@@ -22,7 +22,7 @@ def speech_recognition():
     return text
 
 def chat_with_cohere(prompt):
-    cohere_api_key = "zjRjlebokJj6iCIfOIX8kdQQpwEZLc15Dqpqmb5g"
+    cohere_api_key = "Paste your cohere api key"
     cohere_endpoint = "https://api.cohere.ai/v1/generate"
 
     headers = {
